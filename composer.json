@@ -4,7 +4,6 @@
     "description": "PHP library to communicate with the Econt.bg XML Services.",
 
     "require": {
-      "php": "^7",
       "simexis/omniship": "dev-master"
     },
 
